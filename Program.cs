@@ -1,13 +1,4 @@
-﻿/***********************************************************************************************                                  
- * Programmname:    Split
- * Autor:           Michael Bucek                               
- * ------------------------------------------------ 
- * Kurzbeschreibung:      
- * Das Programm ließt zunächst einen beliebigen Text in einen String ein.
- * Als nächstes wird das gewünschte Trennzeichen eingelesen. Dieses Zeichen soll in einem char
- * gespeichert werden! (Eingabeprüfung: Länge 1 -> sonst Eingabe wiederholen!)  
- * Nun soll der eingegebene Text nach dem eingegebenen Trennzeichen aufgesplittet werden.
- ************************************************************************************************/
+
 
 using System;
 
